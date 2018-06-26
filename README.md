@@ -1,14 +1,9 @@
 # RNWeChat
 * 使用ReactNative开发的仿微信客户端，**支持Android和iOS**，欢迎大家给个star或fork，谢谢~~
 * 如果在项目构建过程中有任何问题，欢迎提issue，我有空一定帮忙解答~~
-* 我新建了一个QQ群，各位如果有任何与该项目有关的问题，或者想交流下ReactNative相关的技术，都可以加进来：419213248
-* iOS的朋友如果运行项目出现问题，可以参考<a href="./iOS-README.md">这个文档</a>
 
-# 服务端变更说明
-2018年1月9号，服务端做了一次迁移，API的域名也改为app.yubo725.top，以前的服务目前已停掉了，如果有APP无法使用的情况，请扫描下方的二维码下载最新的apk，或者clone最新代码
 
-# 登录问题
-目前IM使用的环信，最近环信免费版有了限制，只能注册100个账号，RNWeChat项目的注册人数已经超过了免费限制，需要登录RNWeChat体验的朋友可以使用测试账号登录：hello/hello
+
 
 # Android扫码下载体验
 <img src='./screenshots/rnwechat.png'>
